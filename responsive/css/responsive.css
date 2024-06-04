@@ -8,14 +8,16 @@ body, html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url('../images/thap-eiffel-va-hanh-trinh-kham-pha-nuoc-phap-1.jpg ');
-    background-size: cover;
+    background-image: url('../images/header.png');
+    background-size: 1400px 711px;
     padding: 50px;
     color: white;
 
 }
 #pic{
-    background-image: url('../images/th.jpg');
+    background-image: url('../images/images_1.png');
+    width: 350px;
+    height: 253px;
     flex: 1;
 }
 
